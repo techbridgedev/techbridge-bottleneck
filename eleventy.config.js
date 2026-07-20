@@ -1,4 +1,5 @@
-import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
+// import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
+import {InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import markdownIt from "markdown-it";
 import mdAttrs from 'markdown-it-attrs';
@@ -36,17 +37,20 @@ export default async function(eleventyConfig) {
 			"./public/": "/"
 		})
 		.addPassthroughCopy({
-			"./assets/favicon": "/"
+			"./content/assets/favicon": "/"
 		})
-		.addPassthroughCopy("./assets/");
+		.addPassthroughCopy("./content/assets/");
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
-	// Watch CSS files
-	eleventyConfig.addWatchTarget("assets/css/**/*.css");
+	// Watch content/assets
+	eleventyConfig.addWatchTarget("content/assets/css/**/*.css");
+	eleventyConfig.addWatchTarget("content/assets/files/**/*");
+	eleventyConfig.addWatchTarget("content/assets/fonts/**/*.woff2");
+	eleventyConfig.addWatchTarget("content/assets/icons/**/*.svg");
 	// Watch images for the image pipeline.
-	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
+	// eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
 
 	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
 	// Bundle <style> content and adds a {% css %} paired shortcode
@@ -97,11 +101,11 @@ export default async function(eleventyConfig) {
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
 
-	eleventyConfig.addPlugin(IdAttributePlugin, {
+	/* eleventyConfig.addPlugin(IdAttributePlugin, {
 		// by default we use Eleventy’s built-in `slugify` filter:
 		// slugify: eleventyConfig.getFilter("slugify"),
 		// selector: "h1,h2,h3,h4,h5,h6", // default
-	});
+	}); */
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();

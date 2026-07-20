@@ -1,8 +1,8 @@
 export default {
-	title: "Techbridge + Serket-Tech Security",
-	url: "https://cyber.techbridge.org/",
+	title: "Justiceserver by Techbridge | Eliminate bottlenecks",
+	url: "https://bottleneck.techbridge.org/",
 	language: "en-US",
-	description: "A Techbridge + Serket-Tech Security collaboration.",
+	description: "Justiceserver helps your organization find and eliminate costly intake bottlenecks for a low, fixed fee",
 	author: {
 		name: "Techbridge Inc.",
 		email: "webmaster@techbridge.org",
