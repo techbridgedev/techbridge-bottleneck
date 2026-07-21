@@ -31,13 +31,23 @@ See exactly where client intake is breaking, what it’s costing your staff, and
 
 <div class="form-wrapper inline-wrapper">
   <center-l max="120ch" class="wrapper">
-  <sidebar-l side="right" sideWidth="460px" contentMin="43%" space="var(--s1)" noStretch>
-  <stack-l space="var(--s1)" class="half">
 
-<hgroup>
- <stack-l space="var(--s1)">
+<stack-l space="var(--s1)">
 
-  <p class="heading-small">fix what’s broken</p>
+## get your assessment{.heading-small}
+
+<div id="fa-contact-form">
+</div>
+</stack-l>
+
+  </center-l>
+</div>
+
+<div class="color-reversed">
+  <center-l max="80ch" class="wrapper">
+    <stack-l space="var(--s1)">
+
+<p class="heading-small">fix what’s broken</p>
 
 ## Intake Pain Compounds Every Day You Wait
 
@@ -51,15 +61,6 @@ See exactly where client intake is breaking, what it’s costing your staff, and
 You don’t need a new case management system to fix intake. You need to see where it’s actually breaking. That’s what this assessment does&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;in two weeks, for a fixed $2,500.{.pivot}
 
   </stack-l>
-   <stack-l space="var(--s1)" class="half">
-
-<div id="fa-contact-form">
-
-### Get Your Assessment
-
-</div>
-</stack-l>
-</sidebar-l>
   </center-l>
 </div>
 
@@ -82,7 +83,7 @@ You don’t need a new case management system to fix intake. You need to see whe
 3. Scored Report&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;named bottlenecks, affected roles, time cost, peer benchmarks
 4. Leadership Brief&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;prioritized findings your executive team can act on immediately
 
-### You walk away with
+### You walk away with&colon;
 
 * A current-state intake flow map across phone, web, walk-in, and referral
 * A scored bottleneck analysis naming specific breakpoints and the staff time they consume
