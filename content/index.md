@@ -7,7 +7,7 @@
 
   <p class="heading-small">intake bottleneck assessment · fixed fee · 2 weeks</p>
 
-# Solve the Intake bottleneck
+# Solve the Intake Bottleneck
 
 </stack-l>
 </hgroup>
