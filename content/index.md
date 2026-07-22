@@ -30,7 +30,7 @@ See exactly where client intake is breaking, what it’s costing your staff, and
 </div>
 
 <div class="form-wrapper inline-wrapper">
-  <center-l max="120ch" class="wrapper">
+  <center-l max="80ch" class="wrapper">
 
 <stack-l space="var(--s1)">
 
