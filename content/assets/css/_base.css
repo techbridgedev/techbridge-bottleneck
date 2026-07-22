@@ -512,19 +512,23 @@ nav {
 	}
 }
 
-@media screen and (min-width:648px) {
-	#hero-copy > stack-l {
-		max-inline-size: 45%;
-	}
-}
-
 #hero-image-wrapper {
-	min-inline-size: 33%;
 	background: transparent url(/assets/images/intake-bottleneck-spiral-bg.svg) no-repeat right center;
+	min-inline-size: 100%;
 
 	svg {
 		width: 100%;
 		height: auto;
+	}
+}
+
+@media screen and (min-width:648px) {
+	#hero-copy > stack-l {
+		max-inline-size: 45%;
+	}
+
+	#hero-image-wrapper {
+		min-inline-size: 35%;
 	}
 }
 
