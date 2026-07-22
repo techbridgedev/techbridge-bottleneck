@@ -511,7 +511,6 @@ nav {
 }
 
 #hero-image-wrapper {
-	background: transparent url(/assets/images/intake-bottleneck-spiral-bg.svg) no-repeat right center;
 	min-inline-size: 100%;
 
 	svg {
