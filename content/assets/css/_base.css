@@ -500,11 +500,9 @@ nav {
 }
 
 .wrapper {
-	padding-block: var(--s1);
-	margin-block: var(--s1);
+	padding-block: var(--s3);
 	&#header-wrapper {
 		padding-block: 0;
-		margin-block: 0;
 	}
 
 	&.footer {
