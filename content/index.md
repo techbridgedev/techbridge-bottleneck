@@ -49,6 +49,9 @@ All fields marked with an asterisk (<span class="error">*</span>) are required.
   <center-l max="80ch" class="wrapper">
     <stack-l space="var(--s1)">
 
+<hgroup>
+<stack-l>
+
 <p class="heading-small">fix what’s broken</p>
 
 ## Intake Pain Compounds Every Day You Wait
