@@ -36,6 +36,8 @@ See exactly where client intake is breaking, what it’s costing your staff, and
 
 ## get your assessment{.heading-small}
 
+All fields marked with an asterisk (<span class="error">*</span>) are required.
+
 <div id="fa-contact-form">
 </div>
 </stack-l>

@@ -633,7 +633,8 @@ form {
 }
 
 .wFormContainer .wForm .errMsg,
-.wFormContainer .reqMark:after {
+.wFormContainer .reqMark:after,
+.error {
 	color: var(--color-emphasis)!important;
 }
 
