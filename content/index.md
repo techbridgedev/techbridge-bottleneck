@@ -12,11 +12,11 @@
 </stack-l>
 </hgroup>
 
-See exactly where client intake is breaking, what it’s costing your staff, and how to fix it&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;before you spend a dollar on any platform or tool.{.subhed}
+See exactly where client intake is breaking, what it’s costing your staff, and how to fix it, before you spend a dollar on any platform or tool.{.subhed}
 
-* $2,500 fixed investment&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;no hourly billing
-* Two weeks from survey to leadership brief
-* Scored report your board can act on
+* $2,500 fixed fee; no hourly billing
+* Two weeks from survey to results
+* Scored report leadership can act on
 {.list-check}
 
 <a class="button button-primary" href="#fa-contact-form">get your assessment</a>
@@ -60,10 +60,10 @@ All fields marked with an asterisk (<span class="error">*</span>) are required.
 </hgroup>
 
 * **Too many channels**: Phone, web forms, walk-ins, and referrals arrive all at once, with different levels of completeness
-* **Endless callbacks**: Every incomplete intake traps staff in a chase for missing information before eligibility can even begin
+* **Endless callbacks**: Staff chase calls with clients before eligibility can even begin
 * **No clear picture**: Screening times stretch, decisions vary by who answers, and nobody can point to exactly where the process breaks
 
-You don’t need a new case management system to fix intake. You need to see where it’s actually breaking. That’s what this assessment does&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;in two weeks, for a fixed $2,500.{.pivot}
+Before you invest in technology, you need to see where it’s actually breaking. That’s what this assessment does, in two weeks, for a fixed $2,500.
 
   </stack-l>
   </center-l>
@@ -83,10 +83,10 @@ You don’t need a new case management system to fix intake. You need to see whe
 </stack-l>
 </hgroup>
 
-1. Survey&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;your team documents every inbound channel
-2. Interviews&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;we talk with the staff who live intake daily
-3. Scored Report&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;named bottlenecks, affected roles, time cost, peer benchmarks
-4. Leadership Brief&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;prioritized findings your executive team can act on immediately
+1. Survey: Your team documents every inbound channel
+2. Interviews: We talk with the staff who live intake daily
+3. Scored Report: Named bottlenecks, affected roles, time cost, peer benchmarks
+4. Leadership Brief: Prioritized findings your executive team can act on immediately
 
 ### You walk away with&colon;
 
@@ -94,9 +94,9 @@ You don’t need a new case management system to fix intake. You need to see whe
 * A scored bottleneck analysis naming specific breakpoints and the staff time they consume
 * A peer benchmark comparison against similar legal aid organizations
 * A leadership briefing built for your executive team and board
-{.list-check}
+{.list-check-alt}
 
-<small>No new software required. No disruption to daily operations. Platform-neutral&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;whatever system you use today.</small>
+<small>No new software required. No disruption to daily operations. Platform-neutral: Works with whatever system you use today.</small>
 
 <a class="button button-primary" href="#fa-contact-form">get your assessment</a>
 
@@ -117,7 +117,7 @@ You don’t need a new case management system to fix intake. You need to see whe
 <cite>—&zwj;&hairsp;&zwj;Sarah Cross, Project Manager, Lakeshore Legal Aid</cite>
 </stack-l></blockquote>
 
-The Intake Bottleneck Assessment is delivered by Techbridge, the nonprofit team behind Justiceserver&zwj;&hairsp;&zwj;—&zwj;&hairsp;&zwj;trusted by legal services organizations nationwide for over two decades.
+The Intake Bottleneck Assessment is delivered by Techbridge, the nonprofit team behind Justiceserver, trusted by legal services organizations nationwide for over two decades.
 
 </stack-l>
 </center-l>
@@ -141,7 +141,7 @@ The Intake Bottleneck Assessment is delivered by Techbridge, the nonprofit team 
 
   <p class="heading-small">the visibility you need</p>
 
-## See Where Your Intake Is Breaking — and What It’s Costing You
+## See Where Your Intake Is Breaking, and What It’s Costing You
 
 </stack-l>
 </hgroup>

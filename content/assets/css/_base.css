@@ -294,9 +294,7 @@ h3 {
 	font-size: clamp(0.875rem, 0.582rem + 1.304vw, 1.625rem);
 }
 
-h4,
-blockquote p,
-.pivot {
+h4 {
 	font-size: clamp(0.625rem, 0.307rem + 1.413vw, 1.438rem);
 }
 
@@ -369,6 +367,10 @@ dl, ol, ul {
 
 	&.list-check {
 		list-style-image: url('/assets/icons/icon-check.svg');
+	}
+
+	&.list-check-alt {
+		list-style-image: url('/assets/icons/icon-check-alt.svg');
 	}
 }
 
