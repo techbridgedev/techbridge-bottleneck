@@ -823,6 +823,12 @@ hr.footnotes-sep {
 	}
 }
 
+@media screen and (max-width: 648px) {
+	.button.hide-mobile {
+		display: none;
+	}
+}
+
 .before-form {
 	margin-block-end: var(--s1);
 }
