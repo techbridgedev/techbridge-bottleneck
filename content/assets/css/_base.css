@@ -210,19 +210,7 @@ center-l {
 }
 
 header a {
-	text-decoration: none;x
-}
-
-#header-topper-inner {
-
-	span {
-		color: var(--color-text-link-reversed);
-	}
-
-	small {
-		font-size: small;
-		font-weight: 700;
-	}
+	text-decoration: none;
 }
 
 #header-logo-js,
@@ -422,12 +410,8 @@ a[href]:active {
 }
 
 header {
-	padding-inline-end: var(--measure-dynamic);
 	padding-block: var(--s1);
-
-	&#header-topper {
-		padding-block: var(--s-5);
-	}
+	margin-block-start: 0;
 }
 
 header {
@@ -593,6 +577,10 @@ nav {
 .wFormContainer .actions input.primaryAction:hover {
 	color: var(--bg-color-alt);
 	background-color: var(--color-text);
+}
+
+#button-solve {
+	margin-block-end: var(--s1);
 }
 
 form {
@@ -828,4 +816,8 @@ hr.footnotes-sep {
 			grid-template-columns: 2fr 1fr;
 			grid-template-rows: repeat(1, 1fr);
 	}
+}
+
+p:has(#neutral) {
+	margin-block-end: var(--s1);
 }

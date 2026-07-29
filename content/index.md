@@ -1,6 +1,6 @@
 <div class="color-reversed" id="hero-wrapper">
 <center-l max="120ch">
-<cluster-l justify="space-between"  gap="var(--s1)" id="hero-copy">
+<cluster-l justify="space-between" align="flex-end" gap="var(--s1)" id="hero-copy">
 <stack-l space="var(--s1)" >
 <hgroup>
  <stack-l space="var(--s1)">
@@ -20,6 +20,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 {.list-check}
 
 </stack-l>
+<a class="button" href="#fa-contact-form" id="button-solve">get your assessment</a>
 </cluster-l>
 </center-l>
 </div>
@@ -52,7 +53,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 * A leadership briefing built for your executive team and board
 {.list-check-alt}
 
-<small>No new software required. No disruption to daily operations. Platform-neutral: Works with whatever system you use today.</small>
+<small id="neutral">No new software required. No disruption to daily operations. Platform-neutral: Works with whatever system you use today.</small>
 
   </stack-l>
 <stack-l space="var(--s1)">

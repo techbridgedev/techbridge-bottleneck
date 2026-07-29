@@ -1,6 +1,6 @@
 {
   "name": "techbridge-bottleneck",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A Justiceserver landing page.",
   "type": "module",
   "scripts": {
