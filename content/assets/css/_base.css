@@ -303,6 +303,13 @@ h5,
 	font-size: clamp(0.5rem, 0.231rem + 1.196vw, 1.188rem);
 }
 
+p,
+ul,
+ol,
+dl {
+	max-inline-size: 80ch;
+}
+
 blockquote {
 	padding-inline: clamp(0.625rem, 0.307rem + 1.413vw, 1.438rem);
 	border-inline-start: var(--s-3) solid var(--color-text);
@@ -512,26 +519,33 @@ nav {
 	}
 }
 
-#hero-image-wrapper {
-	min-inline-size: 100%;
-
-	svg {
-		width: 100%;
-		height: auto;
-	}
+#hero-copy > stack-l {
+	margin-block: var(--s3);
 }
 
 @media screen and (min-width:648px) {
 	#hero-copy > stack-l {
-		max-inline-size: 45%;
+		max-inline-size: 60%;
 	}
 
-	#hero-image-wrapper {
-		min-inline-size: 35%;
+	#hero-wrapper {
+		background-image: url(/assets/images/intake-spiral-cropped.svg);
+		background-position: top right;
+		background-size: 35%;
+		background-repeat: no-repeat;
 	}
 }
 
-.form-wrapper {
+@media screen and (max-width:648px) {
+	#header {
+		background-image: url(/assets/images/intake-spiral-cropped.svg);
+		background-position: top right;
+		background-size: 50%;
+		background-repeat: no-repeat;
+	}
+}
+
+.process-plus-form-wrapper {
 	background-color: var(--bg-color-gray);
 }
 
@@ -558,7 +572,11 @@ nav {
   text-box-edge: cap alphabetic;
 	text-decoration: none;
   color: var(--color-text-link);
-  background-color: transparent;
+  background-color: var(--color-mint);
+
+	@media screen and (prefers-color-scheme: dark) {
+		background-color: var(--color-navy);
+	}
 
 	&.pill {
 		padding: var(--s0) var(--s1);
@@ -586,7 +604,7 @@ form {
 #fa-contact-form,
 .wFormContainer,
 .wForm {
-	max-inline-size: 120ch!important;
+	max-inline-size: 60ch!important;
 }
 
 .wFormContainer {
@@ -797,5 +815,17 @@ hr.footnotes-sep {
 		&:not(:last-of-type) {
 			margin-block-end: var(--s1);
 		}
+	}
+	p {
+		max-inline-size: none;
+	}
+}
+
+@media screen and (min-width: 1000px) {
+	.grid-21 {
+			display: grid;
+			gap: var(--s1);
+			grid-template-columns: 2fr 1fr;
+			grid-template-rows: repeat(1, 1fr);
 	}
 }
