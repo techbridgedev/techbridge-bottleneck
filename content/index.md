@@ -10,7 +10,7 @@ description: Techbridge’s Intake Health Check helps you find costly intake bot
 <hgroup>
  <stack-l space="var(--s1)">
 
-  <p class="heading-small">intake bottleneck assessment · fixed fee · 2 weeks</p>
+  <p class="heading-small">intake health check · fixed fee · 2 weeks</p>
 
 # Solve the <strong>Intake Bottleneck</strong>
 
@@ -76,7 +76,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 * **Endless callbacks**: Staff chase calls with clients before eligibility can even begin
 * **No clear picture**: Screening times stretch, decisions vary by who answers, and nobody can point to exactly where the process breaks
 
-Before you invest in technology, you need to see where it’s actually breaking. That’s what this assessment does, in two weeks, for a fixed $2,500.{.before-form}
+Before you invest in technology, you need to see where it’s actually breaking. That’s what this health check does, in two weeks, for a fixed $2,500.{.before-form}
 
   </stack-l>
 <stack-l space="var(--s1)">
