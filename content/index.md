@@ -114,7 +114,7 @@ The Intake Health Check is delivered by Techbridge, the nonprofit team behind Ju
 <div id="logo-row">
 <center-l max="160ch" class="wrapper">
 
-<cluster-l justify="space-around" align="center" space="(var(--s1))" >  ![Bay Area Legal Aid](./assets/images/bay-area-legal-aid-lockup.svg) ![Eviction Defense Collaborative](./assets/images/eviction-defense-collaborative-lockup-stacked.png) ![Kentucky Legal Aid](./assets/images/kentucky-legal-aid-lockup.svg) ![Lakshore Legal Aid](./assets/images/lakeshore-legal-aid-lockup.svg) ![Michigan Advocacy Program](./assets/images/michigan-advocacy-program-lockup.png)
+<cluster-l justify="space-around" align="center" space="(var(--s1))" >  ![Bay Area Legal Aid](./assets/images/bay-area-legal-aid-lockup.svg) ![Eviction Defense Collaborative](./assets/images/eviction-defense-collaborative-lockup.png) ![Kentucky Legal Aid](./assets/images/kentucky-legal-aid-lockup.svg) ![Lakshore Legal Aid](./assets/images/lakeshore-legal-aid-lockup.svg) ![Michigan Advocacy Program](./assets/images/michigan-advocacy-program-lockup.png)
 </cluster-l>
 </center-l>
 </div>

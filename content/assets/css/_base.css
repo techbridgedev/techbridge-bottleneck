@@ -523,6 +523,7 @@ a[href].hide-wide:hover {
 		background-size: 35%;
 		background-repeat: no-repeat;
 	}
+}
 
 @media screen and (max-width:648px) {
 	#header {
@@ -800,12 +801,8 @@ hr.footnotes-sep {
 		display: inline-block;
 		max-inline-size: 300px;
 
-		&:nth-of-type(2) {
-			max-inline-size: 150px;
-		};
-
 		&:not(:last-of-type) {
-			margin-block-end: var(--s1);
+			margin-block-end: var(--s2);
 		}
 	}
 	p {
