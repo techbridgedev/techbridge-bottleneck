@@ -74,7 +74,7 @@
 	--font-size-base: 16px;
 }
 
-@media (prefers-color-scheme: dark) {
+@media screen and (prefers-color-scheme: dark) {
 	:root {
 		--bg-color: var(--color-navy);
 		--bg-color-alt: var(--color-blue);
@@ -345,7 +345,7 @@ iframe {
 	aspect-ratio: 16/9;
 }
 
-p:last-child {
+p:last-child:not(.before-form) {
 	margin-block-end: 0;
 }
 
@@ -507,6 +507,11 @@ nav {
 	margin-block: var(--s3);
 }
 
+a[href].hide-wide:hover {
+	color: var(--bg-color);
+	background-color: var(--color-text);
+}
+
 @media screen and (min-width:648px) {
 	#hero-copy > stack-l {
 		max-inline-size: 60%;
@@ -518,7 +523,6 @@ nav {
 		background-size: 35%;
 		background-repeat: no-repeat;
 	}
-}
 
 @media screen and (max-width:648px) {
 	#header {
@@ -816,8 +820,12 @@ hr.footnotes-sep {
 			grid-template-columns: 2fr 1fr;
 			grid-template-rows: repeat(1, 1fr);
 	}
+
+	.button.hide-wide {
+		display: none;
+	}
 }
 
-p:has(#neutral) {
+.before-form {
 	margin-block-end: var(--s1);
 }

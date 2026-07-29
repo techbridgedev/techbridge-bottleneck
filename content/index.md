@@ -1,3 +1,8 @@
+---
+title: Intake Health Check by Techbridge | Identify Your Intake Bottlenecks
+description: Techbridge’s Intake Health Check helps you find costly intake bottlenecks for a low, fixed fee service
+---
+
 <div class="color-reversed" id="hero-wrapper">
 <center-l max="120ch">
 <cluster-l justify="space-between" align="flex-end" gap="var(--s1)" id="hero-copy">
@@ -20,7 +25,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 {.list-check}
 
 </stack-l>
-<a class="button" href="#fa-contact-form" id="button-solve">get your assessment</a>
+<a class="button" href="#fa-contact-form" id="button-solve">get intake health check</a>
 </cluster-l>
 </center-l>
 </div>
@@ -55,24 +60,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 
 <small id="neutral">No new software required. No disruption to daily operations. Platform-neutral: Works with whatever system you use today.</small>
 
-  </stack-l>
-<stack-l space="var(--s1)">
-
-## get your intake health check{.heading-small}
-
-All fields marked with an asterisk (<span class="error">*</span>) are required.
-
-<div id="fa-contact-form">
-</div>
-</stack-l>
-  </div>
-
-  </center-l>
-</div><!-- end #process-plus-form-wrapper -->
-
-<div class="color-alt">
-  <center-l max="120ch" class="wrapper">
-    <stack-l space="var(--s1)">
+<a class="button button-primary hide-wide" href="#fa-contact-form">get intake health check</a>
 
 <hgroup>
 <stack-l>
@@ -88,11 +76,22 @@ All fields marked with an asterisk (<span class="error">*</span>) are required.
 * **Endless callbacks**: Staff chase calls with clients before eligibility can even begin
 * **No clear picture**: Screening times stretch, decisions vary by who answers, and nobody can point to exactly where the process breaks
 
-Before you invest in technology, you need to see where it’s actually breaking. That’s what this assessment does, in two weeks, for a fixed $2,500.
+Before you invest in technology, you need to see where it’s actually breaking. That’s what this assessment does, in two weeks, for a fixed $2,500.{.before-form}
 
   </stack-l>
-  </center-l>
+<stack-l space="var(--s1)">
+
+## get your intake health check{.heading-small}
+
+All fields marked with an asterisk (<span class="error">*</span>) are required.
+
+<div id="fa-contact-form">
 </div>
+</stack-l>
+  </div>
+
+  </center-l>
+</div><!-- end #process-plus-form-wrapper -->
 
 <div class="color-reversed">
   <center-l max="120ch" class="wrapper">
