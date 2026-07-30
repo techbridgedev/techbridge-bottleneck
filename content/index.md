@@ -19,13 +19,15 @@ description: Techbridge’s Intake Health Check helps you find costly intake bot
 
 See exactly where your legal aid client intake is breaking, what it’s costing your staff, and how to fix it, before you spend a dollar on any platform or tool.{.subhed}
 
-* $2,500 fixed fee; no hourly billing
-* Two weeks from survey to results
 * Scored report leadership can act on
+* Two weeks from survey to results
+* $2,500 fixed fee; no hourly billing
 {.list-check}
 
-</stack-l>
 <a class="button" href="#fa-contact-form" id="button-solve">get intake health check</a>
+
+</stack-l>
+
 </cluster-l>
 </center-l>
 </div>
@@ -55,7 +57,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 * A current-state intake flow map across phone, web, walk-in, and referral
 * A scored bottleneck analysis naming specific breakpoints and the staff time they consume
 * A peer benchmark comparison against similar legal aid organizations
-* A leadership briefing built for your executive team and board
+* A leadership briefing built to unlock your capacity & earn board sponsorship
 {.list-check-alt}
 
 <small id="neutral">No new software required. No disruption to daily operations. Platform-neutral: Works with whatever system you use today.</small>
@@ -76,7 +78,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 * **Endless callbacks**: Staff chase calls with clients before eligibility can even begin
 * **No clear picture**: Screening times stretch, decisions vary by who answers, and nobody can point to exactly where the process breaks
 
-Before you invest in technology, you need to see where it’s actually breaking. That’s what this health check does, in two weeks, for a fixed $2,500.{.before-form}
+Before you invest in technology, you need to see where it’s actually breaking. That’s what this health check does, in two weeks, for a reasonable micro-purchase of $2,500.{.before-form}
 
   </stack-l>
 <stack-l space="var(--s1)">
