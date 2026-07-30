@@ -796,11 +796,12 @@ hr.footnotes-sep {
 	picture {
 		display: inline-block;
 		max-inline-size: 200px;
+		margin-block: var(--s1);
 
-		&:not(:last-of-type) {
-			margin-block-end: var(--s2);
+		&:last-of-type {
+			mix-blend-mode: multiply;
 		}
-	=
+
 		@media screen and (min-width: 1000px) {
 			max-inline-size: 150px;
 		}
@@ -809,6 +810,7 @@ hr.footnotes-sep {
 			max-inline-size: 300px;
 		}
 	}
+
 	p {
 		max-inline-size: none;
 	}
