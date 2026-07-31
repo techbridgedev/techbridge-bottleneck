@@ -806,7 +806,7 @@ hr.footnotes-sep {
 			max-inline-size: 150px;
 		}
 
-		@media screen and (min-width: 1500px) {
+		@media screen and (min-width: 1600px) {
 			max-inline-size: 300px;
 		}
 	}
