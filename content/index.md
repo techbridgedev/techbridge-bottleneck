@@ -24,7 +24,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 * $2,500 fixed fee; no hourly billing
 {.list-check}
 
-<a class="button" href="#fa-contact-form" id="button-solve">get intake health check</a>
+<a class="button" href="#fa-contact-form" id="button-solve">get health check</a>
 
 </stack-l>
 
@@ -62,7 +62,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 
 <small id="neutral">No new software required. No disruption to daily operations. Platform-neutral: Works with whatever system you use today.</small>
 
-<a class="button button-primary hide-wide" href="#fa-contact-form">get intake health check</a>
+<a class="button button-primary hide-wide" href="#fa-contact-form">get health check</a>
 
 <hgroup>
 <stack-l>
@@ -139,7 +139,7 @@ The Intake Health Check is delivered by Techbridge, the nonprofit team behind Ju
 
 $2,500. Two weeks. A scored report and leadership brief your whole organization can act on.
 
-<a class="button button-primary" href="#fa-contact-form">get intake health check</a>
+<a class="button button-primary" href="#fa-contact-form">get health check</a>
 
   </stack-l>
 </div>
