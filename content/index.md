@@ -1,6 +1,6 @@
 ---
-title: Intake Diagnosis Report by Techbridge | Identify Your Intake Bottlenecks
-description: Techbridge’s Intake Diagnosis Report helps you find costly intake bottlenecks for a low, fixed fee service
+title: Intake Diagnostic Report by Techbridge | Identify Your Intake Bottlenecks
+description: Techbridge’s Intake Diagnostic Report helps you find costly intake bottlenecks for a low, fixed fee service
 ---
 
 <div class="color-reversed" id="hero-wrapper">
@@ -10,7 +10,7 @@ description: Techbridge’s Intake Diagnosis Report helps you find costly intake
 <hgroup>
  <stack-l space="var(--s1)">
 
-  <p class="heading-small">intake diagnosis report · fixed fee · 2 weeks</p>
+  <p class="heading-small">intake diagnostic report · fixed fee · 2 weeks</p>
 
 # Solve the <strong>Intake Bottleneck</strong>
 
@@ -108,7 +108,7 @@ There are some powerful advantages that come with using this Justiceserver Intak
 <cite>—&zwj;&hairsp;&zwj;Sarah Cross, Project Manager, Lakeshore Legal Aid</cite>
 </stack-l></blockquote>
 
-The Intake Diagnosis Report is delivered by Techbridge, the nonprofit team behind Justiceserver, trusted by legal services organizations nationwide for over two decades.
+The Intake Diagnostic Report is delivered by Techbridge, the nonprofit team behind Justiceserver, trusted by legal services organizations nationwide for over two decades.
 
 </stack-l>
 </center-l>
