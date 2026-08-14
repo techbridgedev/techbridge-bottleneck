@@ -1,6 +1,6 @@
 ---
-title: Intake Health Check by Techbridge | Identify Your Intake Bottlenecks
-description: Techbridge’s Intake Health Check helps you find costly intake bottlenecks for a low, fixed fee service
+title: Intake Diagnosis Report by Techbridge | Identify Your Intake Bottlenecks
+description: Techbridge’s Intake Diagnosis Report helps you find costly intake bottlenecks for a low, fixed fee service
 ---
 
 <div class="color-reversed" id="hero-wrapper">
@@ -10,7 +10,7 @@ description: Techbridge’s Intake Health Check helps you find costly intake bot
 <hgroup>
  <stack-l space="var(--s1)">
 
-  <p class="heading-small">intake health check · fixed fee · 2 weeks</p>
+  <p class="heading-small">intake diagnosis report · fixed fee · 2 weeks</p>
 
 # Solve the <strong>Intake Bottleneck</strong>
 
@@ -24,7 +24,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 * $2,500 fixed fee; no hourly billing
 {.list-check}
 
-<a class="button" href="#fa-contact-form" id="button-solve">get health check</a>
+<a class="button" href="#fa-contact-form" id="button-solve">get diagnostic</a>
 
 </stack-l>
 
@@ -62,7 +62,7 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 
 <small id="neutral">No new software required. No disruption to daily operations. Platform-neutral: Works with whatever system you use today.</small>
 
-<a class="button button-primary hide-wide" href="#fa-contact-form">get health check</a>
+<a class="button button-primary hide-wide" href="#fa-contact-form">get diagnostic</a>
 
 <hgroup>
 <stack-l>
@@ -78,12 +78,12 @@ See exactly where your legal aid client intake is breaking, what it’s costing 
 * **Endless callbacks**: Staff chase calls with clients before eligibility can even begin
 * **No clear picture**: Screening times stretch, decisions vary by who answers, and nobody can point to exactly where the process breaks
 
-Before you invest in technology, you need to see where it’s actually breaking. That’s what this health check does, in two weeks, for a reasonable micro-purchase of $2,500.{.before-form}
+Before you invest in technology, you need to see where it’s actually breaking. That’s what this diagnosis does, in two weeks, for a reasonable micro-purchase of $2,500.{.before-form}
 
   </stack-l>
 <stack-l space="var(--s1)">
 
-## get your intake health check{.heading-small}
+## get your intake diagnostic report{.heading-small}
 
 All fields marked with an asterisk (<span class="error">*</span>) are required.
 
@@ -108,7 +108,7 @@ There are some powerful advantages that come with using this Justiceserver Intak
 <cite>—&zwj;&hairsp;&zwj;Sarah Cross, Project Manager, Lakeshore Legal Aid</cite>
 </stack-l></blockquote>
 
-The Intake Health Check is delivered by Techbridge, the nonprofit team behind Justiceserver, trusted by legal services organizations nationwide for over two decades.
+The Intake Diagnosis Report is delivered by Techbridge, the nonprofit team behind Justiceserver, trusted by legal services organizations nationwide for over two decades.
 
 </stack-l>
 </center-l>
@@ -139,7 +139,7 @@ The Intake Health Check is delivered by Techbridge, the nonprofit team behind Ju
 
 $2,500. Two weeks. A scored report and leadership brief your whole organization can act on.
 
-<a class="button button-primary" href="#fa-contact-form">get health check</a>
+<a class="button button-primary" href="#fa-contact-form">get diagnostic</a>
 
   </stack-l>
 </div>
